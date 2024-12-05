@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div>
 
     </div>
@@ -12,4 +12,4 @@
 
 <style lang="scss" scoped>
 
-</style> -->
+</style>
