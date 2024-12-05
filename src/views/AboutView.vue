@@ -16,7 +16,6 @@
         <v-text-field v-model="studentObj.lname" 
         placeholder="Last Name"></v-text-field>
       </v-col>
-      
       <v-col cols="12" sm="12" md="12" style="text-align: center">
         <h1>Full Name : {{upperstring(fullName) }}</h1>
         <h1 style="color: red">{{ message }}</h1>
