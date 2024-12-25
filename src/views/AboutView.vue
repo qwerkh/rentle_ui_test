@@ -5,6 +5,8 @@
       src="../assets/logo.png"
       style="width: 100px; height: 100px"
     />
+
+    
     <h1>This is an about page</h1>
     <v-btn color="primary" size="x-large" @click="handleCallParent">Call To Parent</v-btn>
     <v-row>
